@@ -7,7 +7,7 @@ from sessions import weeks  # import the 8-week plan
 tz = pytz.timezone("America/Chicago")
 
 # Start date: Sunday, Sept 21, 2025 at 3:00 PM CST
-base_date = datetime(2025, 9, 21, 15, 0, tzinfo=tz)
+base_date = datetime(2025, 10, 13, 15, 0, tzinfo=tz)
 
 # Create calendar
 cal = Calendar()
@@ -37,7 +37,7 @@ for week_index, week in enumerate(weeks, start=1):
         day_counter += 1
 
 # Save file
-with open("system_design_8weeks_multislot.ics", "wb") as f:
+with open("../Calendars/system_design_8weeks_multislot.ics", "wb") as f:
     f.write(cal.to_ical())
 
 print("✅ ICS file 'system_design_8weeks_multislot.ics' created with all 8 weeks.")

@@ -16,11 +16,11 @@ from zoneinfo import ZoneInfo
 import uuid
 import sessions  # your session definitions
 
-OUTPUT_FILE = "interview_prep.ics"
+OUTPUT_FILE = "../Calendars/interview_prep.ics"
 TIMEZONE = ZoneInfo("America/Chicago")
 
 # 🔧 Change this to move the entire schedule
-START_DATE = datetime(2025, 9, 21, 18, 0, tzinfo=TIMEZONE)  # Mon 6:00 PM CST
+START_DATE = datetime(2025, 10, 13, 18, 0, tzinfo=TIMEZONE)  # Mon 6:00 PM CST
 
 
 def format_datetime(dt):

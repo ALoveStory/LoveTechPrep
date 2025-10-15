@@ -1,0 +1,1555 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//System Design 8 Weeks Multi-Slot//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Day 1 – Bit.ly (URL Shortener) – Watch + Read Along: HelloInte
+ rview Question Breakdown (Bit.ly v1)
+DTSTART;TZID=America/Chicago:20251013T150000
+DTEND;TZID=America/Chicago:20251013T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 1 – Bit.ly (URL Shortener) – Concepts: Unique ID generatio
+ n\, cache-aside
+DTSTART;TZID=America/Chicago:20251013T155000
+DTEND;TZID=America/Chicago:20251013T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 1 – Bit.ly (URL Shortener) – Reading: SDI Vol 1 Ch.8 (URL 
+ Shortener)
+DTSTART;TZID=America/Chicago:20251013T162000
+DTEND;TZID=America/Chicago:20251013T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 1 – Bit.ly (URL Shortener) – Light Practice: Sketch Bit.ly
+  from memory
+DTSTART;TZID=America/Chicago:20251013T164500
+DTEND;TZID=America/Chicago:20251013T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 1 – Bit.ly (URL Shortener) – Optional Reading: DDIA Ch.3 (
+ Storage & Retrieval → KV stores\, indexes)
+DTSTART;TZID=America/Chicago:20251013T170000
+DTEND;TZID=America/Chicago:20251013T173000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 2 – Bit.ly Refactor – Watch + Read Along: HI Bit.ly v2/v3 
+ (sharding\, hot-key mitigation)
+DTSTART;TZID=America/Chicago:20251014T150000
+DTEND;TZID=America/Chicago:20251014T154500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 2 – Bit.ly Refactor – Concepts: Consistent hashing\, cache
+  invalidation\, distributed counters
+DTSTART;TZID=America/Chicago:20251014T154500
+DTEND;TZID=America/Chicago:20251014T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 2 – Bit.ly Refactor – Reading: SDI Vol 1 Ch.4 (Rate Limite
+ r overlap: counters & consistency)
+DTSTART;TZID=America/Chicago:20251014T161500
+DTEND;TZID=America/Chicago:20251014T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 2 – Bit.ly Refactor – Light Practice: Redraw Bit.ly with i
+ mprovements
+DTSTART;TZID=America/Chicago:20251014T164000
+DTEND;TZID=America/Chicago:20251014T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 3 – Dropbox (File Storage & Sync) – Watch + Read Along: He
+ lloInterview Dropbox v1
+DTSTART;TZID=America/Chicago:20251015T150000
+DTEND;TZID=America/Chicago:20251015T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 3 – Dropbox (File Storage & Sync) – Concepts: Chunking\, d
+ eduplication\, replication\, metadata partitioning
+DTSTART;TZID=America/Chicago:20251015T155000
+DTEND;TZID=America/Chicago:20251015T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 3 – Dropbox (File Storage & Sync) – Reading: SDI Vol 1 Ch.
+ 15 (Google Drive)
+DTSTART;TZID=America/Chicago:20251015T162000
+DTEND;TZID=America/Chicago:20251015T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 3 – Dropbox (File Storage & Sync) – Light Practice: Sketch
+  sync flow & conflicts
+DTSTART;TZID=America/Chicago:20251015T164500
+DTEND;TZID=America/Chicago:20251015T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 3 – Dropbox (File Storage & Sync) – Optional Reading: DDIA
+  Ch.5 (Replication → durability & sync)
+DTSTART;TZID=America/Chicago:20251015T170000
+DTEND;TZID=America/Chicago:20251015T173000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 4 – Dropbox Refactor – Watch + Read Along: HI Dropbox v2/v
+ 3 (multi-region\, CAP\, retries)
+DTSTART;TZID=America/Chicago:20251016T150000
+DTEND;TZID=America/Chicago:20251016T154500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 4 – Dropbox Refactor – Concepts: CAP theorem\, idempotency
+ \, request flows
+DTSTART;TZID=America/Chicago:20251016T154500
+DTEND;TZID=America/Chicago:20251016T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 4 – Dropbox Refactor – Reading: SDI Vol 1 Ch.15 revisit (m
+ ulti-region trade-offs)
+DTSTART;TZID=America/Chicago:20251016T161500
+DTEND;TZID=America/Chicago:20251016T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 4 – Dropbox Refactor – Light Practice: Failover scenario d
+ rill
+DTSTART;TZID=America/Chicago:20251016T164000
+DTEND;TZID=America/Chicago:20251016T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 5 – Rate Limiter (Protection & Fairness) – Watch + Read Al
+ ong: HelloInterview Rate Limiter v1
+DTSTART;TZID=America/Chicago:20251017T150000
+DTEND;TZID=America/Chicago:20251017T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 5 – Rate Limiter (Protection & Fairness) – Concepts: Token
+  bucket\, leaky bucket\, sliding window
+DTSTART;TZID=America/Chicago:20251017T155000
+DTEND;TZID=America/Chicago:20251017T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 5 – Rate Limiter (Protection & Fairness) – Reading: SDI Vo
+ l 1 Ch.4 (Rate Limiter)
+DTSTART;TZID=America/Chicago:20251017T162000
+DTEND;TZID=America/Chicago:20251017T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 5 – Rate Limiter (Protection & Fairness) – Light Practice:
+  Draw request flow + hot-user handling
+DTSTART;TZID=America/Chicago:20251017T164500
+DTEND;TZID=America/Chicago:20251017T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 5 – Rate Limiter (Protection & Fairness) – Optional Readin
+ g: DDIA Ch.7 (Transactions → concurrency & fairness)
+DTSTART;TZID=America/Chicago:20251017T170000
+DTEND;TZID=America/Chicago:20251017T173000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 6 – Cross-Design Workshop – Compare: Bit.ly vs Dropbox vs 
+ Rate Limiter (strengths/weaknesses)
+DTSTART;TZID=America/Chicago:20251018T150000
+DTEND;TZID=America/Chicago:20251018T153000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 6 – Cross-Design Workshop – Concepts: Sharding vs replicat
+ ion trade-offs
+DTSTART;TZID=America/Chicago:20251018T153000
+DTEND;TZID=America/Chicago:20251018T160000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 6 – Cross-Design Workshop – Reading Recap: SDI Vol 1 Ch.4\
+ , Ch.8\, Ch.15 (common patterns)
+DTSTART;TZID=America/Chicago:20251018T160000
+DTEND;TZID=America/Chicago:20251018T163000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 6 – Cross-Design Workshop – Exercise: 1-page trade-off mat
+ rix
+DTSTART;TZID=America/Chicago:20251018T163000
+DTEND;TZID=America/Chicago:20251018T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 7 – Guided Mock – Simulation: Redo Bit.ly or Dropbox (note
+ s allowed)
+DTSTART;TZID=America/Chicago:20251019T150000
+DTEND;TZID=America/Chicago:20251019T154500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 7 – Guided Mock – Self-Critique: Delivery framework & clar
+ ity
+DTSTART;TZID=America/Chicago:20251019T154500
+DTEND;TZID=America/Chicago:20251019T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 7 – Guided Mock – Reading: Skim relevant SDI chapter for p
+ hrasing
+DTSTART;TZID=America/Chicago:20251019T161500
+DTEND;TZID=America/Chicago:20251019T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 7 – Guided Mock – Light Practice: List 3 improvements for 
+ Week 2
+DTSTART;TZID=America/Chicago:20251019T164500
+DTEND;TZID=America/Chicago:20251019T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 8 – FB News Feed (v1) – Watch + Read Along: HI News Feed v
+ 1 (personalization\, freshness\, ranking)
+DTSTART;TZID=America/Chicago:20251020T150000
+DTEND;TZID=America/Chicago:20251020T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 8 – FB News Feed (v1) – Patterns: Fan-out vs fan-in
+DTSTART;TZID=America/Chicago:20251020T155000
+DTEND;TZID=America/Chicago:20251020T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 8 – FB News Feed (v1) – Reading: SDI Vol 1 Ch.11 (News Fee
+ d System)
+DTSTART;TZID=America/Chicago:20251020T162000
+DTEND;TZID=America/Chicago:20251020T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 8 – FB News Feed (v1) – Light Practice: Sketch push vs pul
+ l
+DTSTART;TZID=America/Chicago:20251020T164500
+DTEND;TZID=America/Chicago:20251020T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 8 – FB News Feed (v1) – Optional Reading: DDIA Ch.6 (Parti
+ tioning → feed sharding\, hot users)
+DTSTART;TZID=America/Chicago:20251020T170000
+DTEND;TZID=America/Chicago:20251020T173000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 9 – FB News Feed Refactor – Watch + Read Along: HI News Fe
+ ed v2/v3 (freshness\, ranking refinements)
+DTSTART;TZID=America/Chicago:20251021T150000
+DTEND;TZID=America/Chicago:20251021T154500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 9 – FB News Feed Refactor – Concepts: Scale estimation for
+  feeds\, caching invalidation
+DTSTART;TZID=America/Chicago:20251021T154500
+DTEND;TZID=America/Chicago:20251021T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 9 – FB News Feed Refactor – Reading: SDI Vol 1 Ch.2 (Back-
+ of-the-Envelope Estimation)
+DTSTART;TZID=America/Chicago:20251021T161500
+DTEND;TZID=America/Chicago:20251021T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 9 – FB News Feed Refactor – Light Practice: Update trade-o
+ ff table
+DTSTART;TZID=America/Chicago:20251021T164000
+DTEND;TZID=America/Chicago:20251021T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 10 – WhatsApp (Chat v1) – Watch + Read Along: HI WhatsApp 
+ v1 (1:1\, groups\, presence)
+DTSTART;TZID=America/Chicago:20251022T150000
+DTEND;TZID=America/Chicago:20251022T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 10 – WhatsApp (Chat v1) – Concepts: Durability vs latency\
+ , delivery guarantees
+DTSTART;TZID=America/Chicago:20251022T155000
+DTEND;TZID=America/Chicago:20251022T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 10 – WhatsApp (Chat v1) – Key Tech: Redis pub/sub\, Kafka 
+ queues (quick scan)
+DTSTART;TZID=America/Chicago:20251022T162000
+DTEND;TZID=America/Chicago:20251022T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 10 – WhatsApp (Chat v1) – Reading: SDI Vol 1 Ch.12 (Chat S
+ ystem)
+DTSTART;TZID=America/Chicago:20251022T164000
+DTEND;TZID=America/Chicago:20251022T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 10 – WhatsApp (Chat v1) – Optional Reading: DDIA Ch.8 (Tro
+ uble with Distributed Systems → timeouts/retries)
+DTSTART;TZID=America/Chicago:20251022T170000
+DTEND;TZID=America/Chicago:20251022T173000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 11 – WhatsApp Refactor + Real-Time – Watch + Read Along: H
+ I WhatsApp v2/v3 (WebSockets/long-polling)
+DTSTART;TZID=America/Chicago:20251023T150000
+DTEND;TZID=America/Chicago:20251023T154500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 11 – WhatsApp Refactor + Real-Time – Patterns: Managing lo
+ ng-running connections (real-time updates)
+DTSTART;TZID=America/Chicago:20251023T154500
+DTEND;TZID=America/Chicago:20251023T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 11 – WhatsApp Refactor + Real-Time – Concepts: Consistency
+  across devices
+DTSTART;TZID=America/Chicago:20251023T161500
+DTEND;TZID=America/Chicago:20251023T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 11 – WhatsApp Refactor + Real-Time – Light Practice: Conne
+ ction scaling checklist
+DTSTART;TZID=America/Chicago:20251023T164000
+DTEND;TZID=America/Chicago:20251023T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 12 – Ticketmaster (High-Concurrency v1) – Watch + Read Alo
+ ng: HI Ticketmaster v1 (flash sales\, fairness)
+DTSTART;TZID=America/Chicago:20251024T150000
+DTEND;TZID=America/Chicago:20251024T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 12 – Ticketmaster (High-Concurrency v1) – Patterns: Dealin
+ g with contention\, fairness
+DTSTART;TZID=America/Chicago:20251024T155000
+DTEND;TZID=America/Chicago:20251024T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 12 – Ticketmaster (High-Concurrency v1) – Reading: SDI Vol
+  2 Ch.7 (Hotel Reservation analog for contention)
+DTSTART;TZID=America/Chicago:20251024T162000
+DTEND;TZID=America/Chicago:20251024T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 12 – Ticketmaster (High-Concurrency v1) – Light Practice: 
+ Hot-spot handling sketch
+DTSTART;TZID=America/Chicago:20251024T164500
+DTEND;TZID=America/Chicago:20251024T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 13 – Trade-Off Workshop (Social Systems) – Compare: News F
+ eed vs WhatsApp vs Ticketmaster
+DTSTART;TZID=America/Chicago:20251025T150000
+DTEND;TZID=America/Chicago:20251025T153000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 13 – Trade-Off Workshop (Social Systems) – Concepts: Laten
+ cy vs throughput\, consistency guarantees
+DTSTART;TZID=America/Chicago:20251025T153000
+DTEND;TZID=America/Chicago:20251025T160000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 13 – Trade-Off Workshop (Social Systems) – Reading Recap: 
+ SDI Vol 1 Ch.11\, Ch.12\; Vol 2 Ch.7
+DTSTART;TZID=America/Chicago:20251025T160000
+DTEND;TZID=America/Chicago:20251025T163000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 13 – Trade-Off Workshop (Social Systems) – Exercise: Socia
+ l systems trade-off matrix
+DTSTART;TZID=America/Chicago:20251025T163000
+DTEND;TZID=America/Chicago:20251025T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 14 – Guided Mock (Social Systems) – Simulation: Choose 1 (
+ notes allowed)
+DTSTART;TZID=America/Chicago:20251026T150000
+DTEND;TZID=America/Chicago:20251026T154500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 14 – Guided Mock (Social Systems) – Self-Critique: Scaling
+  & trade-offs clarity
+DTSTART;TZID=America/Chicago:20251026T154500
+DTEND;TZID=America/Chicago:20251026T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 14 – Guided Mock (Social Systems) – Reading: Skim relevant
+  SDI chapter for vocabulary
+DTSTART;TZID=America/Chicago:20251026T161500
+DTEND;TZID=America/Chicago:20251026T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 14 – Guided Mock (Social Systems) – Light Practice: Plan f
+ ocus for Week 3
+DTSTART;TZID=America/Chicago:20251026T164500
+DTEND;TZID=America/Chicago:20251026T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 15 – Uber (Geospatial Matching v1) – Practice First: Attem
+ pt Uber v1 cold (matching\, surge\, location)
+DTSTART;TZID=America/Chicago:20251027T150000
+DTEND;TZID=America/Chicago:20251027T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 15 – Uber (Geospatial Matching v1) – Review: HI reference 
+ (compare & capture gaps)
+DTSTART;TZID=America/Chicago:20251027T155000
+DTEND;TZID=America/Chicago:20251027T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 15 – Uber (Geospatial Matching v1) – Concepts: Partitionin
+ g\, replication\, consistent hashing
+DTSTART;TZID=America/Chicago:20251027T161500
+DTEND;TZID=America/Chicago:20251027T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 15 – Uber (Geospatial Matching v1) – Reading: SDI Vol 2 Ch
+ .1 (Proximity Service)
+DTSTART;TZID=America/Chicago:20251027T164500
+DTEND;TZID=America/Chicago:20251027T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 16 – Uber Refactor + Redis/Kafka – Practice: Refactor Uber
+  (latency vs consistency)
+DTSTART;TZID=America/Chicago:20251028T150000
+DTEND;TZID=America/Chicago:20251028T154000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 16 – Uber Refactor + Redis/Kafka – Key Tech Deep Dive: Red
+ is (cache\, pub/sub\, leaderboards)
+DTSTART;TZID=America/Chicago:20251028T154000
+DTEND;TZID=America/Chicago:20251028T161000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 16 – Uber Refactor + Redis/Kafka – Key Tech Deep Dive: Kaf
+ ka (durability\, consumer groups)
+DTSTART;TZID=America/Chicago:20251028T161000
+DTEND;TZID=America/Chicago:20251028T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 16 – Uber Refactor + Redis/Kafka – Light Practice: Re-sket
+ ch data flow
+DTSTART;TZID=America/Chicago:20251028T164000
+DTEND;TZID=America/Chicago:20251028T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 17 – Ad Click Aggregator (v1) – Practice First: Attempt Ag
+ gregator v1 cold (billions/day)
+DTSTART;TZID=America/Chicago:20251029T150000
+DTEND;TZID=America/Chicago:20251029T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 17 – Ad Click Aggregator (v1) – Review: HI reference (trad
+ e-offs & storage)
+DTSTART;TZID=America/Chicago:20251029T155000
+DTEND;TZID=America/Chicago:20251029T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 17 – Ad Click Aggregator (v1) – Concepts/Patterns: Work di
+ stribution\, scaling writes
+DTSTART;TZID=America/Chicago:20251029T161500
+DTEND;TZID=America/Chicago:20251029T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 17 – Ad Click Aggregator (v1) – Reading: SDI Vol 2 Ch.6 (A
+ d Click Event Aggregation)
+DTSTART;TZID=America/Chicago:20251029T164500
+DTEND;TZID=America/Chicago:20251029T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 17 – Ad Click Aggregator (v1) – Optional Reading: DDIA Ch.
+ 10 (Batch Processing)
+DTSTART;TZID=America/Chicago:20251029T171000
+DTEND;TZID=America/Chicago:20251029T174000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 18 – Cassandra vs DynamoDB Deep Dive – Concepts: Partition
+ ing/sharding strategies
+DTSTART;TZID=America/Chicago:20251030T150000
+DTEND;TZID=America/Chicago:20251030T153000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 18 – Cassandra vs DynamoDB Deep Dive – Concepts: Replicati
+ on/consistency trade-offs
+DTSTART;TZID=America/Chicago:20251030T153000
+DTEND;TZID=America/Chicago:20251030T160000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 18 – Cassandra vs DynamoDB Deep Dive – Practice: Refactor 
+ Aggregator with DB comparisons
+DTSTART;TZID=America/Chicago:20251030T160000
+DTEND;TZID=America/Chicago:20251030T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 18 – Cassandra vs DynamoDB Deep Dive – Artifacts: Pros/con
+ s table
+DTSTART;TZID=America/Chicago:20251030T164000
+DTEND;TZID=America/Chicago:20251030T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 19 – LeetCode (Online Judge v1) – Practice First: Attempt 
+ Online Judge v1 cold
+DTSTART;TZID=America/Chicago:20251031T150000
+DTEND;TZID=America/Chicago:20251031T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 19 – LeetCode (Online Judge v1) – Review: HI reference (is
+ olation\, quotas)
+DTSTART;TZID=America/Chicago:20251031T155000
+DTEND;TZID=America/Chicago:20251031T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 19 – LeetCode (Online Judge v1) – Patterns: Job scheduling
+ \, retries\, idempotency
+DTSTART;TZID=America/Chicago:20251031T161500
+DTEND;TZID=America/Chicago:20251031T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 19 – LeetCode (Online Judge v1) – Reading: SDI Vol 2 Ch.4 
+ (Distributed Message Queue)
+DTSTART;TZID=America/Chicago:20251031T164500
+DTEND;TZID=America/Chicago:20251031T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 19 – LeetCode (Online Judge v1) – Optional Reading: DDIA C
+ h.11 (Stream Processing)
+DTSTART;TZID=America/Chicago:20251031T171000
+DTEND;TZID=America/Chicago:20251031T174000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 20 – Tech Trade-Off Workshop – Compare: Redis vs Kafka vs 
+ Cassandra
+DTSTART;TZID=America/Chicago:20251101T150000
+DTEND;TZID=America/Chicago:20251101T153000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 20 – Tech Trade-Off Workshop – Apply choices across Uber/A
+ ggregator/LeetCode
+DTSTART;TZID=America/Chicago:20251101T153000
+DTEND;TZID=America/Chicago:20251101T161000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 20 – Tech Trade-Off Workshop – Exercise: Technology cheat 
+ sheet
+DTSTART;TZID=America/Chicago:20251101T161000
+DTEND;TZID=America/Chicago:20251101T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 21 – Mock Interview (Week 3 set) – Full Mock: Pick one sys
+ tem (cold)
+DTSTART;TZID=America/Chicago:20251102T150000
+DTEND;TZID=America/Chicago:20251102T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 21 – Mock Interview (Week 3 set) – Self-Critique: Tech jus
+ tification clarity
+DTSTART;TZID=America/Chicago:20251102T155000
+DTEND;TZID=America/Chicago:20251102T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 21 – Mock Interview (Week 3 set) – Reading Recap: Skim SDI
+  chapter of chosen system
+DTSTART;TZID=America/Chicago:20251102T162000
+DTEND;TZID=America/Chicago:20251102T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 22 – YouTube (Video Platform v1) – Practice First: Attempt
+  YouTube v1 cold (upload\, stream\, CDN)
+DTSTART;TZID=America/Chicago:20251103T150000
+DTEND;TZID=America/Chicago:20251103T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 22 – YouTube (Video Platform v1) – Review: HI reference (b
+ itrate\, hot content\, CDN)
+DTSTART;TZID=America/Chicago:20251103T155000
+DTEND;TZID=America/Chicago:20251103T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 22 – YouTube (Video Platform v1) – Concepts: Request flow\
+ , consistency models
+DTSTART;TZID=America/Chicago:20251103T161500
+DTEND;TZID=America/Chicago:20251103T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 22 – YouTube (Video Platform v1) – Reading: SDI Vol 1 Ch.1
+ 4 (YouTube)
+DTSTART;TZID=America/Chicago:20251103T164500
+DTEND;TZID=America/Chicago:20251103T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 23 – YouTube Refactor – Practice: Storage + transcoding pi
+ peline refactor
+DTSTART;TZID=America/Chicago:20251104T150000
+DTEND;TZID=America/Chicago:20251104T154000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 23 – YouTube Refactor – Key Tech: Failure handling (node c
+ rash\, CDN outage)
+DTSTART;TZID=America/Chicago:20251104T154000
+DTEND;TZID=America/Chicago:20251104T161000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 23 – YouTube Refactor – Artifacts: SLOs + backpressure not
+ es
+DTSTART;TZID=America/Chicago:20251104T161000
+DTEND;TZID=America/Chicago:20251104T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 24 – Web Crawler (v1) – Practice First: Attempt Crawler v1
+  cold (politeness\, dedupe\, indexing)
+DTSTART;TZID=America/Chicago:20251105T150000
+DTEND;TZID=America/Chicago:20251105T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 24 – Web Crawler (v1) – Review: HI reference (frontier\, r
+ obots.txt\, dedup)
+DTSTART;TZID=America/Chicago:20251105T155000
+DTEND;TZID=America/Chicago:20251105T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 24 – Web Crawler (v1) – Concepts: URL frontier\, Bloom vs 
+ DB dedup
+DTSTART;TZID=America/Chicago:20251105T161500
+DTEND;TZID=America/Chicago:20251105T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 24 – Web Crawler (v1) – Reading: SDI Vol 1 Ch.9 (Web Crawl
+ er)
+DTSTART;TZID=America/Chicago:20251105T164500
+DTEND;TZID=America/Chicago:20251105T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 24 – Web Crawler (v1) – Optional Reading: DDIA Ch.2 (Data 
+ Models & Query Languages)
+DTSTART;TZID=America/Chicago:20251105T171000
+DTEND;TZID=America/Chicago:20251105T174000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 25 – Web Crawler Refactor – Concepts: Frontier scaling acr
+ oss shards
+DTSTART;TZID=America/Chicago:20251106T150000
+DTEND;TZID=America/Chicago:20251106T153500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 25 – Web Crawler Refactor – Key Tech: Distributed dedup st
+ rategies
+DTSTART;TZID=America/Chicago:20251106T153500
+DTEND;TZID=America/Chicago:20251106T160500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 25 – Web Crawler Refactor – Practice: Failure handling cas
+ es
+DTSTART;TZID=America/Chicago:20251106T160500
+DTEND;TZID=America/Chicago:20251106T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 25 – Web Crawler Refactor – Artifacts: Fault tree
+DTSTART;TZID=America/Chicago:20251106T164000
+DTEND;TZID=America/Chicago:20251106T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 26 – Google Docs (Collab Editing v1) – Practice First: Att
+ empt Docs v1 cold (real-time collab\, versions)
+DTSTART;TZID=America/Chicago:20251107T150000
+DTEND;TZID=America/Chicago:20251107T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 26 – Google Docs (Collab Editing v1) – Review: HI referenc
+ e (presence\, conflicts\, storage)
+DTSTART;TZID=America/Chicago:20251107T155000
+DTEND;TZID=America/Chicago:20251107T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 26 – Google Docs (Collab Editing v1) – Concepts: OT vs CRD
+ Ts
+DTSTART;TZID=America/Chicago:20251107T161500
+DTEND;TZID=America/Chicago:20251107T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 26 – Google Docs (Collab Editing v1) – Reading: SDI Vol 1 
+ Ch.15 (Google Drive) – storage parallels
+DTSTART;TZID=America/Chicago:20251107T164500
+DTEND;TZID=America/Chicago:20251107T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 26 – Google Docs (Collab Editing v1) – Optional Reading: D
+ DIA Ch.9 (Consistency & Consensus)
+DTSTART;TZID=America/Chicago:20251107T171000
+DTEND;TZID=America/Chicago:20251107T174000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 27 – Trade-Off Workshop (Media/Search/Docs) – Latency vs t
+ hroughput across YouTube/Crawler/Docs
+DTSTART;TZID=America/Chicago:20251108T150000
+DTEND;TZID=America/Chicago:20251108T153000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 27 – Trade-Off Workshop (Media/Search/Docs) – Consistency 
+ vs availability
+DTSTART;TZID=America/Chicago:20251108T153000
+DTEND;TZID=America/Chicago:20251108T160000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 27 – Trade-Off Workshop (Media/Search/Docs) – Exercise: Co
+ st vs complexity matrix
+DTSTART;TZID=America/Chicago:20251108T160000
+DTEND;TZID=America/Chicago:20251108T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 28 – Mock Interview (Week 4 set) – Full Mock: Choose one (
+ cold)
+DTSTART;TZID=America/Chicago:20251109T150000
+DTEND;TZID=America/Chicago:20251109T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 28 – Mock Interview (Week 4 set) – Self-Critique: Depth vs
+  breadth balance
+DTSTART;TZID=America/Chicago:20251109T155000
+DTEND;TZID=America/Chicago:20251109T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 28 – Mock Interview (Week 4 set) – Reading Recap: Skim SDI
+  chapter of chosen system
+DTSTART;TZID=America/Chicago:20251109T162000
+DTEND;TZID=America/Chicago:20251109T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 29 – FB Post Search (v1) – Practice First: Attempt Search 
+ v1 cold (indexing\, ranking)
+DTSTART;TZID=America/Chicago:20251110T150000
+DTEND;TZID=America/Chicago:20251110T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 29 – FB Post Search (v1) – Review: HI reference (sharding\
+ , caching)
+DTSTART;TZID=America/Chicago:20251110T155000
+DTEND;TZID=America/Chicago:20251110T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 29 – FB Post Search (v1) – Concepts: Inverted index\, quer
+ y planning
+DTSTART;TZID=America/Chicago:20251110T161500
+DTEND;TZID=America/Chicago:20251110T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 29 – FB Post Search (v1) – Reading: (Closest) SDI Vol 1 Ch
+ .13 (Autocomplete concepts)
+DTSTART;TZID=America/Chicago:20251110T164500
+DTEND;TZID=America/Chicago:20251110T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 29 – FB Post Search (v1) – Optional Reading: DDIA Ch.4 (En
+ coding & Evolution)
+DTSTART;TZID=America/Chicago:20251110T171000
+DTEND;TZID=America/Chicago:20251110T174000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 30 – FB Post Search Refactor – Concepts: Index strategies 
+ (prefix\, n-gram)\, tiered storage
+DTSTART;TZID=America/Chicago:20251111T150000
+DTEND;TZID=America/Chicago:20251111T153500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 30 – FB Post Search Refactor – Key Tech: Query optimizatio
+ n paths
+DTSTART;TZID=America/Chicago:20251111T153500
+DTEND;TZID=America/Chicago:20251111T160500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 30 – FB Post Search Refactor – Practice: Failure handling 
+ & rebuild
+DTSTART;TZID=America/Chicago:20251111T160500
+DTEND;TZID=America/Chicago:20251111T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 30 – FB Post Search Refactor – Artifacts: Recovery plan
+DTSTART;TZID=America/Chicago:20251111T164000
+DTEND;TZID=America/Chicago:20251111T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 31 – Yelp (Discovery v1) – Practice First: Attempt Yelp v1
+  cold (listings\, reviews\, photos)
+DTSTART;TZID=America/Chicago:20251112T150000
+DTEND;TZID=America/Chicago:20251112T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 31 – Yelp (Discovery v1) – Review: HI reference (ranking/r
+ elevance)
+DTSTART;TZID=America/Chicago:20251112T155000
+DTEND;TZID=America/Chicago:20251112T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 31 – Yelp (Discovery v1) – Concepts: Geo-indexing & recomm
+ endations basics
+DTSTART;TZID=America/Chicago:20251112T161500
+DTEND;TZID=America/Chicago:20251112T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 31 – Yelp (Discovery v1) – Reading: SDI Vol 2 Ch.3 (Maps/G
+ eo parallels)
+DTSTART;TZID=America/Chicago:20251112T164500
+DTEND;TZID=America/Chicago:20251112T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 32 – Yelp Refactor – Concepts: Scaling geo-search & filter
+ s
+DTSTART;TZID=America/Chicago:20251113T150000
+DTEND;TZID=America/Chicago:20251113T153500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 32 – Yelp Refactor – Patterns: Caching for locality hotspo
+ ts
+DTSTART;TZID=America/Chicago:20251113T153500
+DTEND;TZID=America/Chicago:20251113T160500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 32 – Yelp Refactor – Practice: Degraded search modes
+DTSTART;TZID=America/Chicago:20251113T160500
+DTEND;TZID=America/Chicago:20251113T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 32 – Yelp Refactor – Artifacts: SLOs + fallbacks
+DTSTART;TZID=America/Chicago:20251113T164000
+DTEND;TZID=America/Chicago:20251113T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 33 – Strava (Activity Feed v1) – Practice First: Attempt S
+ trava v1 cold (tracking\, feed\, leaderboards)
+DTSTART;TZID=America/Chicago:20251114T150000
+DTEND;TZID=America/Chicago:20251114T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 33 – Strava (Activity Feed v1) – Review: HI reference (pri
+ vacy/segments)
+DTSTART;TZID=America/Chicago:20251114T155000
+DTEND;TZID=America/Chicago:20251114T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 33 – Strava (Activity Feed v1) – Patterns: Event logging &
+  leaderboards
+DTSTART;TZID=America/Chicago:20251114T161500
+DTEND;TZID=America/Chicago:20251114T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 33 – Strava (Activity Feed v1) – Reading: SDI Vol 2 Ch.10 
+ (Real-Time Gaming Leaderboard)
+DTSTART;TZID=America/Chicago:20251114T164500
+DTEND;TZID=America/Chicago:20251114T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 33 – Strava (Activity Feed v1) – Optional Reading: DDIA Ch
+ .12 (Future of Data Systems)
+DTSTART;TZID=America/Chicago:20251114T171000
+DTEND;TZID=America/Chicago:20251114T174000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 34 – Trade-Off Workshop (Search/Discovery) – Search vs dis
+ covery trade-offs
+DTSTART;TZID=America/Chicago:20251115T150000
+DTEND;TZID=America/Chicago:20251115T153000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 34 – Trade-Off Workshop (Search/Discovery) – Consistency v
+ s performance (eventual results)
+DTSTART;TZID=America/Chicago:20251115T153000
+DTEND;TZID=America/Chicago:20251115T160000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 34 – Trade-Off Workshop (Search/Discovery) – Exercise: Cos
+ t vs latency matrix
+DTSTART;TZID=America/Chicago:20251115T160000
+DTEND;TZID=America/Chicago:20251115T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 35 – Mock Interview (Week 5 set) – Full Mock: Choose one (
+ cold)
+DTSTART;TZID=America/Chicago:20251116T150000
+DTEND;TZID=America/Chicago:20251116T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 35 – Mock Interview (Week 5 set) – Self-Critique: Indexing
+  vs serving clarity
+DTSTART;TZID=America/Chicago:20251116T155000
+DTEND;TZID=America/Chicago:20251116T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 35 – Mock Interview (Week 5 set) – Reading Recap: Skim SDI
+  chapter of chosen system
+DTSTART;TZID=America/Chicago:20251116T162000
+DTEND;TZID=America/Chicago:20251116T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 36 – Online Auction (v1) – Practice First: Attempt Auction
+  v1 cold (bidding\, concurrency)
+DTSTART;TZID=America/Chicago:20251117T150000
+DTEND;TZID=America/Chicago:20251117T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 36 – Online Auction (v1) – Review: HI reference (locks/que
+ ues)
+DTSTART;TZID=America/Chicago:20251117T155000
+DTEND;TZID=America/Chicago:20251117T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 36 – Online Auction (v1) – Concepts: Atomicity\, idempoten
+ cy\, concurrency control
+DTSTART;TZID=America/Chicago:20251117T161500
+DTEND;TZID=America/Chicago:20251117T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 36 – Online Auction (v1) – Reading: SDI Vol 2 Ch.7 (Hotel 
+ Reservation analogs)
+DTSTART;TZID=America/Chicago:20251117T164500
+DTEND;TZID=America/Chicago:20251117T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 36 – Online Auction (v1) – Optional Reading: DDIA Ch.9 (Co
+ nsistency & Consensus)
+DTSTART;TZID=America/Chicago:20251117T171000
+DTEND;TZID=America/Chicago:20251117T174000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 37 – Auction Refactor – Concepts: Locking strategies (opti
+ mistic/pessimistic)
+DTSTART;TZID=America/Chicago:20251118T150000
+DTEND;TZID=America/Chicago:20251118T153500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 37 – Auction Refactor – Key Tech: Queues\, outbox/inbox pa
+ tterns
+DTSTART;TZID=America/Chicago:20251118T153500
+DTEND;TZID=America/Chicago:20251118T160500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 37 – Auction Refactor – Practice: Failure handling (over-s
+ ell\, refunds\, retries)
+DTSTART;TZID=America/Chicago:20251118T160500
+DTEND;TZID=America/Chicago:20251118T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 37 – Auction Refactor – Artifacts: Compensating transactio
+ ns plan
+DTSTART;TZID=America/Chicago:20251118T164000
+DTEND;TZID=America/Chicago:20251118T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 38 – Price Tracker (v1) – Practice First: Attempt Price Tr
+ acker v1 cold (scrape\, alerts)
+DTSTART;TZID=America/Chicago:20251119T150000
+DTEND;TZID=America/Chicago:20251119T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 38 – Price Tracker (v1) – Review: HI reference (freshness/
+ cost)
+DTSTART;TZID=America/Chicago:20251119T155000
+DTEND;TZID=America/Chicago:20251119T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 38 – Price Tracker (v1) – Patterns: Polling vs streaming\,
+  backoff
+DTSTART;TZID=America/Chicago:20251119T161500
+DTEND;TZID=America/Chicago:20251119T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 38 – Price Tracker (v1) – Reading: SDI Vol 2 Ch.5 (Metrics
+ /Monitoring concepts apply)
+DTSTART;TZID=America/Chicago:20251119T164500
+DTEND;TZID=America/Chicago:20251119T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 39 – Price Tracker Refactor – Concepts: Data freshness SLA
+ s
+DTSTART;TZID=America/Chicago:20251120T150000
+DTEND;TZID=America/Chicago:20251120T153500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 39 – Price Tracker Refactor – Key Tech: Queueing + retries
+  + DLQs
+DTSTART;TZID=America/Chicago:20251120T153500
+DTEND;TZID=America/Chicago:20251120T160500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 39 – Price Tracker Refactor – Practice: Anti-bot/throttlin
+ g failure modes
+DTSTART;TZID=America/Chicago:20251120T160500
+DTEND;TZID=America/Chicago:20251120T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 39 – Price Tracker Refactor – Artifacts: Alert SLOs
+DTSTART;TZID=America/Chicago:20251120T164000
+DTEND;TZID=America/Chicago:20251120T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 40 – Payment System (v1) – Practice First: Attempt Payment
+  v1 cold (auth\, capture\, refund)
+DTSTART;TZID=America/Chicago:20251121T150000
+DTEND;TZID=America/Chicago:20251121T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 40 – Payment System (v1) – Review: HI reference (idempoten
+ cy\, retries\, fraud)
+DTSTART;TZID=America/Chicago:20251121T155000
+DTEND;TZID=America/Chicago:20251121T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 40 – Payment System (v1) – Concepts: 2PC vs saga\, idempot
+ ency keys
+DTSTART;TZID=America/Chicago:20251121T161500
+DTEND;TZID=America/Chicago:20251121T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 40 – Payment System (v1) – Reading: SDI Vol 2 Ch.11 (Payme
+ nt System) / Ch.12 (Digital Wallet)
+DTSTART;TZID=America/Chicago:20251121T164500
+DTEND;TZID=America/Chicago:20251121T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 40 – Payment System (v1) – Optional Reading: DDIA Ch.7 (Tr
+ ansactions)
+DTSTART;TZID=America/Chicago:20251121T171000
+DTEND;TZID=America/Chicago:20251121T174000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 41 – Trade-Off Workshop (Commerce) – Atomicity vs availabi
+ lity
+DTSTART;TZID=America/Chicago:20251122T150000
+DTEND;TZID=America/Chicago:20251122T153000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 41 – Trade-Off Workshop (Commerce) – Throughput vs latency
+  under load
+DTSTART;TZID=America/Chicago:20251122T153000
+DTEND;TZID=America/Chicago:20251122T160000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 41 – Trade-Off Workshop (Commerce) – Exercise: Cost vs saf
+ ety matrix
+DTSTART;TZID=America/Chicago:20251122T160000
+DTEND;TZID=America/Chicago:20251122T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 42 – Mock Interview (Week 6 set) – Full Mock: Choose one (
+ cold)
+DTSTART;TZID=America/Chicago:20251123T150000
+DTEND;TZID=America/Chicago:20251123T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 42 – Mock Interview (Week 6 set) – Self-Critique: Transact
+ ion clarity
+DTSTART;TZID=America/Chicago:20251123T155000
+DTEND;TZID=America/Chicago:20251123T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 42 – Mock Interview (Week 6 set) – Reading Recap: Skim SDI
+  chapter of chosen system
+DTSTART;TZID=America/Chicago:20251123T162000
+DTEND;TZID=America/Chicago:20251123T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 43 – Distributed Cache (v1) – Practice First: Attempt Cach
+ e v1 cold (latency\, scale)
+DTSTART;TZID=America/Chicago:20251124T150000
+DTEND;TZID=America/Chicago:20251124T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 43 – Distributed Cache (v1) – Review: HI reference (evicti
+ on\, replication\, rehash)
+DTSTART;TZID=America/Chicago:20251124T155000
+DTEND;TZID=America/Chicago:20251124T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 43 – Distributed Cache (v1) – Concepts: Replication\, evic
+ tion\, consistency
+DTSTART;TZID=America/Chicago:20251124T161500
+DTEND;TZID=America/Chicago:20251124T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 43 – Distributed Cache (v1) – Reading: SDI Vol 1 Ch.5 (Con
+ sistent Hashing) + Ch.6 (KV Store)
+DTSTART;TZID=America/Chicago:20251124T164500
+DTEND;TZID=America/Chicago:20251124T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 43 – Distributed Cache (v1) – Optional Reading: DDIA Ch.8 
+ (Trouble with Distributed Systems)
+DTSTART;TZID=America/Chicago:20251124T171000
+DTEND;TZID=America/Chicago:20251124T174000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 44 – Distributed Cache Refactor – Concepts: Consistent has
+ hing deep dive
+DTSTART;TZID=America/Chicago:20251125T150000
+DTEND;TZID=America/Chicago:20251125T153500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 44 – Distributed Cache Refactor – Patterns: Cache invalida
+ tion strategies
+DTSTART;TZID=America/Chicago:20251125T153500
+DTEND;TZID=America/Chicago:20251125T160500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 44 – Distributed Cache Refactor – Practice: Failure handli
+ ng (node loss\, split brain)
+DTSTART;TZID=America/Chicago:20251125T160500
+DTEND;TZID=America/Chicago:20251125T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 44 – Distributed Cache Refactor – Artifacts: Recovery & re
+ balancing plan
+DTSTART;TZID=America/Chicago:20251125T164000
+DTEND;TZID=America/Chicago:20251125T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 45 – Job Scheduler (v1) – Practice First: Attempt Schedule
+ r v1 cold (cron\, retries\, priorities)
+DTSTART;TZID=America/Chicago:20251126T150000
+DTEND;TZID=America/Chicago:20251126T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 45 – Job Scheduler (v1) – Review: HI reference (fairness\,
+  throughput)
+DTSTART;TZID=America/Chicago:20251126T155000
+DTEND;TZID=America/Chicago:20251126T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 45 – Job Scheduler (v1) – Patterns: Distributed scheduling
+ \, backoff\, idempotency
+DTSTART;TZID=America/Chicago:20251126T161500
+DTEND;TZID=America/Chicago:20251126T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 45 – Job Scheduler (v1) – Reading: SDI Vol 2 Ch.4 (Distrib
+ uted Message Queue)
+DTSTART;TZID=America/Chicago:20251126T164500
+DTEND;TZID=America/Chicago:20251126T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 45 – Job Scheduler (v1) – Optional Reading: DDIA Ch.9 (Con
+ sensus → leader election/coordination)
+DTSTART;TZID=America/Chicago:20251126T171000
+DTEND;TZID=America/Chicago:20251126T174000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 46 – Job Scheduler Refactor – Concepts: Queue semantics (a
+ t-least-once\, exactly-once-ish)
+DTSTART;TZID=America/Chicago:20251127T150000
+DTEND;TZID=America/Chicago:20251127T153500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 46 – Job Scheduler Refactor – Key Tech: DLQs\, poison pill
+  handling
+DTSTART;TZID=America/Chicago:20251127T153500
+DTEND;TZID=America/Chicago:20251127T160500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 46 – Job Scheduler Refactor – Practice: Worker churn\, clo
+ ck skew cases
+DTSTART;TZID=America/Chicago:20251127T160500
+DTEND;TZID=America/Chicago:20251127T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 46 – Job Scheduler Refactor – Artifacts: SLA & capacity mo
+ del
+DTSTART;TZID=America/Chicago:20251127T164000
+DTEND;TZID=America/Chicago:20251127T170000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 47 – FB Live Comments (v1) – Practice First: Attempt Live 
+ Comments v1 cold (real-time scale)
+DTSTART;TZID=America/Chicago:20251128T150000
+DTEND;TZID=America/Chicago:20251128T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 47 – FB Live Comments (v1) – Review: HI reference (fan-out
+ \, ordering\, hot shards)
+DTSTART;TZID=America/Chicago:20251128T155000
+DTEND;TZID=America/Chicago:20251128T161500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 47 – FB Live Comments (v1) – Patterns: Fan-out\, windowing
+ \, backpressure
+DTSTART;TZID=America/Chicago:20251128T161500
+DTEND;TZID=America/Chicago:20251128T164500
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 47 – FB Live Comments (v1) – Reading: SDI Vol 2 Ch.10 (Lea
+ derboard analogies)
+DTSTART;TZID=America/Chicago:20251128T164500
+DTEND;TZID=America/Chicago:20251128T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 48 – Trade-Off Workshop (Infra) – Latency vs consistency a
+ cross Cache/Scheduler/Comments
+DTSTART;TZID=America/Chicago:20251129T150000
+DTEND;TZID=America/Chicago:20251129T153000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 48 – Trade-Off Workshop (Infra) – Scalability vs cost
+DTSTART;TZID=America/Chicago:20251129T153000
+DTEND;TZID=America/Chicago:20251129T160000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 48 – Trade-Off Workshop (Infra) – Exercise: Failure mode a
+ nalysis matrix
+DTSTART;TZID=America/Chicago:20251129T160000
+DTEND;TZID=America/Chicago:20251129T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 49 – Mock Interview (Week 7 set) – Full Mock: Choose one (
+ cold)
+DTSTART;TZID=America/Chicago:20251130T150000
+DTEND;TZID=America/Chicago:20251130T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 49 – Mock Interview (Week 7 set) – Self-Critique: Infra cl
+ arity & trade-offs
+DTSTART;TZID=America/Chicago:20251130T155000
+DTEND;TZID=America/Chicago:20251130T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 49 – Mock Interview (Week 7 set) – Reading Recap: Skim SDI
+  chapter of chosen system
+DTSTART;TZID=America/Chicago:20251130T162000
+DTEND;TZID=America/Chicago:20251130T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 50 – Uber (Redo\, timed) – Timed Redesign: Uber (cold)
+DTSTART;TZID=America/Chicago:20251201T150000
+DTEND;TZID=America/Chicago:20251201T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 50 – Uber (Redo\, timed) – Self-Critique: Latency vs consi
+ stency articulation
+DTSTART;TZID=America/Chicago:20251201T155000
+DTEND;TZID=America/Chicago:20251201T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 50 – Uber (Redo\, timed) – Artifacts: Notes wrap-up
+DTSTART;TZID=America/Chicago:20251201T162000
+DTEND;TZID=America/Chicago:20251201T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 51 – WhatsApp (Redo\, timed) – Timed Redesign: WhatsApp (c
+ old)
+DTSTART;TZID=America/Chicago:20251202T150000
+DTEND;TZID=America/Chicago:20251202T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 51 – WhatsApp (Redo\, timed) – Self-Critique: Real-time co
+ nnection scaling
+DTSTART;TZID=America/Chicago:20251202T155000
+DTEND;TZID=America/Chicago:20251202T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 51 – WhatsApp (Redo\, timed) – Artifacts: Notes wrap-up
+DTSTART;TZID=America/Chicago:20251202T162000
+DTEND;TZID=America/Chicago:20251202T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 52 – YouTube (Redo\, timed) – Timed Redesign: YouTube (col
+ d)
+DTSTART;TZID=America/Chicago:20251203T150000
+DTEND;TZID=America/Chicago:20251203T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 52 – YouTube (Redo\, timed) – Self-Critique: CDN + storage
+  trade-offs
+DTSTART;TZID=America/Chicago:20251203T155000
+DTEND;TZID=America/Chicago:20251203T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 52 – YouTube (Redo\, timed) – Artifacts: Notes wrap-up
+DTSTART;TZID=America/Chicago:20251203T162000
+DTEND;TZID=America/Chicago:20251203T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 53 – News Feed (Redo\, timed) – Timed Redesign: News Feed 
+ (cold)
+DTSTART;TZID=America/Chicago:20251204T150000
+DTEND;TZID=America/Chicago:20251204T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 53 – News Feed (Redo\, timed) – Self-Critique: Fan-out vs 
+ fan-in clarity
+DTSTART;TZID=America/Chicago:20251204T155000
+DTEND;TZID=America/Chicago:20251204T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 53 – News Feed (Redo\, timed) – Artifacts: Notes wrap-up
+DTSTART;TZID=America/Chicago:20251204T162000
+DTEND;TZID=America/Chicago:20251204T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 54 – Mock Mix (Uber + WhatsApp) – Quick Uber drill
+DTSTART;TZID=America/Chicago:20251205T150000
+DTEND;TZID=America/Chicago:20251205T153000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 54 – Mock Mix (Uber + WhatsApp) – Quick WhatsApp drill
+DTSTART;TZID=America/Chicago:20251205T153000
+DTEND;TZID=America/Chicago:20251205T160000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 54 – Mock Mix (Uber + WhatsApp) – Trade-off discussion pra
+ ctice
+DTSTART;TZID=America/Chicago:20251205T160000
+DTEND;TZID=America/Chicago:20251205T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 54 – Mock Mix (Uber + WhatsApp) – Wrap-up notes
+DTSTART;TZID=America/Chicago:20251205T164000
+DTEND;TZID=America/Chicago:20251205T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 55 – Mock Mix (YouTube + News Feed) – Quick YouTube drill
+DTSTART;TZID=America/Chicago:20251206T150000
+DTEND;TZID=America/Chicago:20251206T153000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 55 – Mock Mix (YouTube + News Feed) – Quick News Feed dril
+ l
+DTSTART;TZID=America/Chicago:20251206T153000
+DTEND;TZID=America/Chicago:20251206T160000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 55 – Mock Mix (YouTube + News Feed) – Trade-off discussion
+  practice
+DTSTART;TZID=America/Chicago:20251206T160000
+DTEND;TZID=America/Chicago:20251206T164000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 55 – Mock Mix (YouTube + News Feed) – Wrap-up notes
+DTSTART;TZID=America/Chicago:20251206T164000
+DTEND;TZID=America/Chicago:20251206T171000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 55 – Mock Mix (YouTube + News Feed) – Optional Reading: DD
+ IA Ch.1 (Reliable/Scalable/Maintainable) – capstone review
+DTSTART;TZID=America/Chicago:20251206T171000
+DTEND;TZID=America/Chicago:20251206T174000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 56 – Final Mock Interview – Full Mock: Pick any system (co
+ ld)
+DTSTART;TZID=America/Chicago:20251207T150000
+DTEND;TZID=America/Chicago:20251207T155000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 56 – Final Mock Interview – Final Self-Critique: Delivery 
+ + trade-offs
+DTSTART;TZID=America/Chicago:20251207T155000
+DTEND;TZID=America/Chicago:20251207T162000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 56 – Final Mock Interview – Capstone notes & interview rea
+ diness checklist
+DTSTART;TZID=America/Chicago:20251207T162000
+DTEND;TZID=America/Chicago:20251207T165000
+DTSTAMP:20251015T012917Z
+END:VEVENT
+END:VCALENDAR
